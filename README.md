@@ -44,6 +44,10 @@ Cybersecurity is one of the most important skills in today’s digital world. Th
 - Password Cracking Tools
 - Security Automation (Python & Bash)
 
+### VI. Web Application Security
+- [Web Security Checklist for Developers](web-security-checklist-for-developers.md) — 25 most commonly forgotten issues that get websites hacked (Cause + Fix + How to Verify)
+- OWASP Top 10
+
 ---
 
 ## Learning Goals
@@ -55,6 +59,7 @@ By the end of this course, you will be able to:
 - Use essential security tools responsibly
 - Strengthen personal and organizational defenses
 - Build a foundation for certifications (Security+, CEH, CISSP)
+- Apply practical web application security best practices
 
 ---
 
