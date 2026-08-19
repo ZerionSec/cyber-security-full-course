@@ -8,7 +8,7 @@ This repository is designed for beginners and intermediate learners who want cle
 
 ## Course Overview
 
-Cybersecurity is one of the most important skills in today’s digital world. This course covers major domains including networking, system defense, ethical hacking, digital forensics, and more.
+Cybersecurity is one of the most important skills in today’s digital world. This course covers major domains including networking, system defense, ethical hacking, digital forensics, OSINT, and more.
 
 ---
 
@@ -48,6 +48,9 @@ Cybersecurity is one of the most important skills in today’s digital world. Th
 - [Web Security Checklist for Developers](web-security-checklist-for-developers.md) — 25 most commonly forgotten issues that get websites hacked (Cause + Fix + How to Verify)
 - OWASP Top 10
 
+### VII. Open Source Intelligence (OSINT)
+- [🌿 OSINT PARADISE](osint-paradise.md) — Comprehensive guide to the best OSINT tools on GitHub, Linux installation methods, and pro tips
+
 ---
 
 ## Learning Goals
@@ -57,6 +60,7 @@ By the end of this course, you will be able to:
 - Understand cybersecurity and networking fundamentals
 - Recognize and mitigate common cyber threats
 - Use essential security tools responsibly
+- Perform basic OSINT investigations ethically
 - Strengthen personal and organizational defenses
 - Build a foundation for certifications (Security+, CEH, CISSP)
 - Apply practical web application security best practices
